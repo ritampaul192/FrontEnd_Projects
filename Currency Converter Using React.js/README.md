@@ -90,7 +90,6 @@ App will run at: http://localhost:5173
 
 ## 📸 Screenshots
 
-_Add screenshots here of the working converter UI._  
 ![image](https://github.com/user-attachments/assets/82c0733c-e538-4ba8-9029-f2fb5415726c)
 
 ---
