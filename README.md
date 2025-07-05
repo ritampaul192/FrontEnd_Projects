@@ -12,7 +12,7 @@ This repository contains all the frontend projects I've built using **HTML**, **
 | Project Name        | Tech Stack           | Live Demo                                       | GitHub Repo |
 |---------------------|----------------------|--------------------------------------------------|-------------|
 | 🎬 Netflix Clone     | HTML, CSS            | [View Live](https://netclo1.vercel.app)         | [Repo](https://github.com/ritampaul192/FrontEnd_Projects/tree/main/Netflix%20Clone%20Using%20HTML%20%26%20CSS) |
-| 💵 Currency Converter     | React.js            | [View Live](https://curcal01.vercel.app/)         | [Repo](https://github.com/ritampaul192/FrontEnd_Projects) |
+| 💵 Currency Converter     | React.js            | [View Live](https://curcal01.vercel.app/)         | [Repo](https://github.com/ritampaul192/FrontEnd_Projects/tree/main/Currency%20Converter%20Using%20React.js) |
 
 ---
 
