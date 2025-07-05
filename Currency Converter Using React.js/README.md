@@ -35,7 +35,29 @@ This project was built as part of my learning journey to master **React Hooks**,
 ---
 
 ## 📂 Folder Structure
-<pre lang="markdown"> ```plaintext Currency Converter Using React.js/ ├── public/ │ └── vite.svg ├── src/ │ ├── assets/ │ │ └── react.svg │ ├── components/ │ │ └── InputBox.jsx # Reusable input component │ ├── hooks/ │ │ ├── useCurrencyInfo.js # Custom hook to fetch rates │ │ └── useCurrencyFname.js # Custom hook for currency names │ ├── App.jsx # Main App logic │ ├── App.css │ ├── index.css │ └── main.jsx # Entry point ├── .gitignore ├── vite.config.js ├── package.json └── README.md ``` </pre>
+<pre lang="markdown">
+```plaintext
+Currency Converter Using React.js/
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── assets/
+│   │   └── react.svg
+│   ├── components/
+│   │   └── InputBox.jsx          # Reusable input component
+│   ├── hooks/
+│   │   ├── useCurrencyInfo.js    # Custom hook to fetch rates
+│   │   └── useCurrencyFname.js   # Custom hook for currency names
+│   ├── App.jsx                   # Main App logic
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx                  # Entry point
+├── .gitignore
+├── vite.config.js
+├── package.json
+└── README.md
+```
+</pre>
 
 ---
 
