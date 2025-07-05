@@ -36,7 +36,7 @@ This project was built as part of my learning journey to master **React Hooks**,
 
 ## 📂 Folder Structure
 <pre lang="markdown">
-```plaintext
+```
 Currency Converter Using React.js/
 ├── public/
 │   └── vite.svg
