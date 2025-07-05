@@ -108,6 +108,6 @@ _Add screenshots here of the working converter UI._
 🐙 [GitHub - ritampaul192](https://github.com/ritampaul192)
 
 ---
-
 > ⭐ Feel free to fork the repo, use the custom hooks, and build your own version!
-
+---
+© 2025 Ritam Paul. All rights reserved.
