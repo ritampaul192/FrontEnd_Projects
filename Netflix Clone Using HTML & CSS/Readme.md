@@ -9,6 +9,11 @@ Welcome to my **Netflix Clone** – a static website built using **only HTML and
 ## 📸 Preview
 
 ![image](https://github.com/user-attachments/assets/9153435e-2135-4b6b-960b-104b5e55b54e)
+![image](https://github.com/user-attachments/assets/c17c33e5-5940-4a2e-b03a-ca02f361da62)
+![image](https://github.com/user-attachments/assets/e7e9f98e-ce8e-4e5d-9b58-a7c18e5ac3c8)
+![image](https://github.com/user-attachments/assets/1c897315-d210-40d7-9346-9c8a729888ba)
+
+
 
 ---
 
@@ -31,12 +36,45 @@ Welcome to my **Netflix Clone** – a static website built using **only HTML and
 
 ---
 
-## 📂 Folder Structure
-project-root/
-│
+## 📁 Folder Structure
+<pre lang="markdown">
+```
+Netflix Clone Using HTML & CSS/
+├── curve/
+│   ├── demo.css
+│   └── demo1.html
+├── images/
+│   ├── am.jpg
+│   ├── bb3 new.jpg
+│   ├── bb3.jpg
+│   ├── bg.jpg
+│   ├── bg2.jpg
+│   ├── bg3.jpg
+│   ├── bg4.jpg
+│   ├── bg5.jpg
+│   ├── bw.jpg
+│   ├── dd.jpg
+│   ├── dm.jpg
+│   ├── favicon.ico
+│   ├── kn.jpg
+│   ├── lb.jpg
+│   ├── logo.svg
+│   ├── mm.jpg
+│   ├── netflix favicon.png
+│   ├── nficon2023.ico
+│   ├── pp2.jpg
+│   ├── pp2new.jpg
+│   ├── sq2.jpg
+│   ├── squid game.jpg
+│   ├── th.jpg
+│   └── venom.jpg
+├── videos/
+│   └── video1.m4v
 ├── index.html
-├── style.css
-└── assets/ (images, icons if used)
+├── Readme.md
+└── style.css
+```
+</pre>
 
 ---
 
